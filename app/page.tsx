@@ -27,7 +27,7 @@ export default function Home() {
         <div className=' text-xl text-center md:text-start md:text-2xl lg:text-3xl xl:text-5xl w-2/3 text-white font-bold'>
           Build The Community Your Fans Will Love 
         </div>
-        <div className=' text-center md:text-startmd:text-sm lg:text-base w-4/5  mt-7 text-white'>
+        <div className=' text-center md:text-start md:text-sm lg:text-base w-4/5  mt-7 text-white'>
           Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.
         </div>
         <button className='  md:text-sm lg:text-base mt-7 bg-custom-100 text-white  px-10 py-3 md:px-10 lg:px-14 rounded-full'>
